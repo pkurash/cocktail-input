@@ -1,0 +1,6 @@
+%particle   centrality  method  pt const rel sys(%) ptMin    ptMax    func    opt     par1    par1Low par1Up  par2        par2Low par2Up  par3        par3Low par3Up  par4    par4Low par4Up
+NPion        MB          MCParam   -                    0.4     40.0    oHagPt  QNRME+   180 - -    0.4 0.12 2       0.12 0.10 0.5         1. 0.1 5.0       6. 5. 7. stop
+Eta          MB          MCParam    -                   0.4     40.0    oHagPt  QNRME+  40 - -    0.4 0. 2       0.12 0.1 0.5         1. 0.67 5.0       5.95 5.7 6.2 stop
+CKaon       MB          MCParam    -                   0.4     40.0    oHagPt  QNRME+  40 - -    0.4 0. 2       0.12 0.1 0.5         1. 0.67 5.0       5.95 5.7 6.2 stop
+NKaonSubS   MB          MCParam    -                   0.4     40.0    oHagPt  QNRME+  40 - -    0.4 0. 2       0.12 0.1 0.5         1. 0.67 5.0       5.95 5.7 6.2 stop
+Lambda      MB          MCParam    -                   0.4     40.0    oHagPt  QNRME+  40 - -    0.4 0. 2       0.12 0.1 0.5         1. 0.67 5.0       5.95 5.7 6.2 stop

@@ -1,0 +1,8 @@
+%particle           centrality  method      pt const rel sys(%) ptMin   ptMax   func        opt     par1    par1Low par1Up  par2    par2Low par2Up  par3    par3Low par3Up  par4    par4Low par4Up  par5    par5Low par5Up  par6    par6Low par6Up  par7    par7Low par7Up  par8    par8Low par8Up  par9    par9Low par9Up  par10   par10Low    par10Up     par11    par11Low par11Up       
+EtaToNPion          MB          PCM         -                   0.7     10.0    softHard    QNRME+  stop
+EtaToNPion          MB          PCMEMCal    -                   2.2     16.0    softHard    QNRME+  0.53 0.5 0.55 -159101 -159200 -159000 1.56 1.4 1.7 46.19 45.0 47.1 -0.01 -0.1 0.1 8.78 7.0 10.0 10.65 9.0 11.5 stop
+EtaToNPion          MB          EMCal       -                   1.1     16.0    softHard    QNRME+  stop
+EtaToNPion          MB          Comb        -                   0.7     16.0    softHard    QNRME+  0.53 - - -159101 - - 1.56 - - 46.19 - - -0.01 - - 8.78 - - 10.65 - - stop
+CKaonToCPion        MB          -       -                   0.2     20.0    qcdRatio    QNRME+  stop
+ProtonToCPion       MB          -       -                   0.3     20.0    oHagRatio   QNRME+  1.55    -       -       0.69    -       -       -0.004  -       -       0.33    -       -       -19.98  -       -       767.01  -       -       0.43    -       -       -0.033  -       -       0.48    -       -       21.39   stop
+LambdaToNKaonSubS   MB          -       -                   0.6     8.0     qcdRatio    QNRME+  11.57   -       -       7.85    -       -       -40.78  -       -       0.73    -       -       8.79    -       -       29.73   -       -       5.55    -       -       -13.25  -       -       -2.2    -       -       15.04   stop

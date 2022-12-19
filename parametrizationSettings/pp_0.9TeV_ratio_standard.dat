@@ -1,0 +1,2 @@
+%particle       centrality  method  pt const rel sys(%) ptMin   ptMax   func        opt      
+EtaToNPion      MB          PCM     -                   0.9     3.0    softHard    QNRME+  stop

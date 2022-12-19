@@ -1,0 +1,13 @@
+%particle   centrality  method  pt const rel sys(%) ptMin   ptMax   func    opt     par1    par1Low par1Up  par2    par2Low par2Up  par3    par3Low par3Up  par4    par4Low par4Up
+NPion       MB          Comb	   -                   0.4     35.0    oHagPt  QNRME+ 161.782 - - 0.0322 - - 0.178 - - 0.480 - - 4.9796 - - stop
+NPion       MB          PCM        0.09                0.4     12.0    oHagPt  QNRME+  511.782 - - 0.1522 - - -0.13 - - 0.44 - - 6.0 - - stop
+NPion       MB          EMCal      -                   1.2     18.0    doHagPt QNRME+  stop
+NPion       MB          PCMEMCal   0.045               0.8     35.0    doHagPt QNRME+  stop
+Eta         MB          Comb       -                   0.4     35.0    doHagPt QNRME+  stop
+Eta         MB          PCM        0.09                0.2     12.0    tmpt    QNRME+  stop
+Eta         MB          EMCal      -                   2.0     30.0    doHagPt QNRME+  stop
+Eta         MB          PCMEMCal   0.045               1.2     25.0    tmpt    QNRME+  stop
+CPion       MB          -          -                   0.3     20.0    oHagPt  QNRME+  stop
+CKaon       MB          -          -                   0.3     20.0    oHagPt  QNRME+  stop
+Proton      MB          -          -                   0.3     19.0    tmpt    QNRME+  stop
+Lambda      MB          -          -                   0.4     10.0    oHagPt  QNRME+  stop

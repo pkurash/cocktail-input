@@ -1,0 +1,5 @@
+%particle           centrality  method      pt const rel sys(%) ptMin   ptMax   func        opt     par1    par1Low par1Up  par2    par2Low par2Up  par3    par3Low par3Up  par4    par4Low par4Up  par5    par5Low par5Up  par6    par6Low par6Up  par7    par7Low par7Up  par8    par8Low par8Up  par9    par9Low par9Up  par10   par10Low    par10Up     par11    par11Low par11Up       
+EtaToNPion      MB          PCM             -                   0.5      6.0    softHard    QNRME+  stop
+EtaToNPion      MB          PCMEMCal        -                   1.0     16.0    softHard    QNRME+  stop
+EtaToNPion      MB          EMCal           -                   2.0     20.0    softHard    QNRME+  stop
+EtaToNPion      MB          Comb            -                   0.5     20.0    softHard    QNRME+  0.53 - - -159101 - - 1.56 - - 46.19 - - -0.01 - - 8.78 - - 10.65 - - stop

@@ -1,0 +1,602 @@
+pp_7TeV NPion Comb - oHagPt
+chi^2 / ndf = 2.151 / 28
+par0 ( A (mbGeV^{-2}c^{3}) ) 82.4398 +/- 33.0366
+par1 ( a [(GeV/c)^{-1}] ) 0.409703 +/- 0.238059
+par2 ( b [(GeV/c)^{-1}] ) 1.54523e-12 +/- 0.00327675
+par3 ( p_{0} (GeV/c) ) 0.626986 +/- 0.0522754
+par4 ( n ) 6.24714 +/- 0.261861
+
+pp_7TeV NPion Comb const shift up - oHagPt
+chi^2 / ndf = 2.151 / 28
+par0 ( A (mbGeV^{-2}c^{3}) )  = 82.4398 +/- 33.0366
+par1 ( a [(GeV/c)^{-1}] )  = 0.409703 +/- 0.238059
+par2 ( b [(GeV/c)^{-1}] )  = 1.54523e-12 +/- 0.00327675
+par3 ( p_{0} (GeV/c) )  = 0.626986 +/- 0.0522754
+par4 ( n )  = 6.24714 +/- 0.261861
+
+pp_7TeV NPion Comb const shift down - oHagPt
+chi^2 / ndf = 2.151 / 28
+par0 ( A (mbGeV^{-2}c^{3}) )  = 82.4398 +/- 33.0366
+par1 ( a [(GeV/c)^{-1}] )  = 0.409703 +/- 0.238059
+par2 ( b [(GeV/c)^{-1}] )  = 1.54523e-12 +/- 0.00327675
+par3 ( p_{0} (GeV/c) )  = 0.626986 +/- 0.0522754
+par4 ( n )  = 6.24714 +/- 0.261861
+
+pp_7TeV NPion Comb lin A - oHagPt
+chi^2 / ndf = 1.67281 / 28
+par0 ( A (mbGeV^{-2}c^{3}) )  = 95.5584 +/- 30.2576
+par1 ( a [(GeV/c)^{-1}] )  = -0.0913328 +/- 0.0780755
+par2 ( b [(GeV/c)^{-1}] )  = 0.0118504 +/- 0.00872287
+par3 ( p_{0} (GeV/c) )  = 1.16948 +/- 0.430343
+par4 ( n )  = 7.77665 +/- 0.983051
+
+pp_7TeV NPion Comb lin B - oHagPt
+chi^2 / ndf = 2.0748 / 28
+par0 ( A (mbGeV^{-2}c^{3}) )  = 55.3995 +/- 23.2216
+par1 ( a [(GeV/c)^{-1}] )  = 0.513864 +/- 0.214984
+par2 ( b [(GeV/c)^{-1}] )  = 5.24702e-10 +/- 0.000266555
+par3 ( p_{0} (GeV/c) )  = 0.632748 +/- 0.0395257
+par4 ( n )  = 6.11654 +/- 0.196357
+
+pp_7TeV NPion Comb pol2 A - oHagPt
+chi^2 / ndf = 1.75943 / 28
+par0 ( A (mbGeV^{-2}c^{3}) )  = 108.299 +/- 41.8521
+par1 ( a [(GeV/c)^{-1}] )  = 0.370654 +/- 0.247595
+par2 ( b [(GeV/c)^{-1}] )  = 2.43618e-07 +/- 0.00492816
+par3 ( p_{0} (GeV/c) )  = 0.617491 +/- 0.0612488
+par4 ( n )  = 6.32913 +/- 0.293404
+
+pp_7TeV NPion Comb pol2 B - oHagPt
+chi^2 / ndf = 3.19388 / 28
+par0 ( A (mbGeV^{-2}c^{3}) )  = 58.7349 +/- 24.1081
+par1 ( a [(GeV/c)^{-1}] )  = 0.46492 +/- 0.223477
+par2 ( b [(GeV/c)^{-1}] )  = 6.08857e-09 +/- 0.000172161
+par3 ( p_{0} (GeV/c) )  = 0.641039 +/- 0.043944
+par4 ( n )  = 6.15436 +/- 0.224973
+
+pp_7TeV NPion PCM - oHagPt
+chi^2 / ndf = 25.7228 / 33
+par0 ( A (mbGeV^{-2}c^{3}) ) 110.941 +/- 3.64028
+par1 ( a [(GeV/c)^{-1}] ) 0.360852 +/- 0.0142167
+par2 ( b [(GeV/c)^{-1}] ) 0.000386128 +/- 0.0081245
+par3 ( p_{0} (GeV/c) ) 0.613611 +/- 0.00499167
+par4 ( n ) 6.20086 +/- 0.0225857
+
+pp_7TeV NPion PCM const shift up - oHagPt
+chi^2 / ndf = 29.9463 / 33
+par0 ( A (mbGeV^{-2}c^{3}) )  = 131.268 +/- 11.4984
+par1 ( a [(GeV/c)^{-1}] )  = 0.411815 +/- 0.0226729
+par2 ( b [(GeV/c)^{-1}] )  = -0.0308059 +/- 0.0148789
+par3 ( p_{0} (GeV/c) )  = 0.566009 +/- 0.00949477
+par4 ( n )  = 6.05 +/- 0.37777
+
+pp_7TeV NPion PCM const shift down - oHagPt
+chi^2 / ndf = 20.8725 / 33
+par0 ( A (mbGeV^{-2}c^{3}) )  = 109.587 +/- 12.6558
+par1 ( a [(GeV/c)^{-1}] )  = 0.411828 +/- 0.0304051
+par2 ( b [(GeV/c)^{-1}] )  = -0.0308059 +/- 0.019827
+par3 ( p_{0} (GeV/c) )  = 0.566012 +/- 0.0126417
+par4 ( n )  = 6.05001 +/- 0.376197
+
+pp_7TeV NPion PCM lin A - oHagPt
+chi^2 / ndf = 26.2031 / 33
+par0 ( A (mbGeV^{-2}c^{3}) )  = 122.277 +/- 12.5158
+par1 ( a [(GeV/c)^{-1}] )  = 0.387813 +/- 0.0464979
+par2 ( b [(GeV/c)^{-1}] )  = -0.0252837 +/- 0.0268508
+par3 ( p_{0} (GeV/c) )  = 0.57606 +/- 0.0380221
+par4 ( n )  = 6.09922 +/- 0.111815
+
+pp_7TeV NPion PCM lin B - oHagPt
+chi^2 / ndf = 25.6243 / 33
+par0 ( A (mbGeV^{-2}c^{3}) )  = 115.37 +/- 13.4699
+par1 ( a [(GeV/c)^{-1}] )  = 0.421677 +/- 0.0299121
+par2 ( b [(GeV/c)^{-1}] )  = -0.0261182 +/- 0.0202208
+par3 ( p_{0} (GeV/c) )  = 0.570335 +/- 0.0132151
+par4 ( n )  = 6.05005 +/- 0.336805
+
+pp_7TeV NPion PCM pol2 A - oHagPt
+chi^2 / ndf = 25.6383 / 33
+par0 ( A (mbGeV^{-2}c^{3}) )  = 125.269 +/- 14.7793
+par1 ( a [(GeV/c)^{-1}] )  = 0.404239 +/- 0.0308928
+par2 ( b [(GeV/c)^{-1}] )  = -0.0369827 +/- 0.0199125
+par3 ( p_{0} (GeV/c) )  = 0.561378 +/- 0.0127027
+par4 ( n )  = 6.05 +/- 0.294017
+
+pp_7TeV NPion PCM pol2 B - oHagPt
+chi^2 / ndf = 26.2369 / 33
+par0 ( A (mbGeV^{-2}c^{3}) )  = 111.021 +/- 3.69442
+par1 ( a [(GeV/c)^{-1}] )  = 0.376364 +/- 0.0145564
+par2 ( b [(GeV/c)^{-1}] )  = -0.00507935 +/- 0.00811752
+par3 ( p_{0} (GeV/c) )  = 0.603828 +/- 0.00488185
+par4 ( n )  = 6.1645 +/- 0.0221236
+
+pp_7TeV Eta Comb - tmpt
+chi^2 / ndf = 0.14624 / 10
+par0 ( dN/dy ) 1.32795 +/- 0.235318
+par1 ( n ) 6.90226 +/- 1.02766
+par2 ( T_{Levy} (GeV/c) ) 0.230081 +/- 0.0368216
+
+pp_7TeV Eta Comb const shift up - tmpt
+chi^2 / ndf = 0.14624 / 10
+par0 ( dN/dy )  = 1.32795 +/- 0.235318
+par1 ( n )  = 6.90226 +/- 1.02766
+par2 ( T_{Levy} (GeV/c) )  = 0.230081 +/- 0.0368216
+
+pp_7TeV Eta Comb const shift down - tmpt
+chi^2 / ndf = 0.14624 / 10
+par0 ( dN/dy )  = 1.32795 +/- 0.235318
+par1 ( n )  = 6.90226 +/- 1.02766
+par2 ( T_{Levy} (GeV/c) )  = 0.230081 +/- 0.0368216
+
+pp_7TeV Eta Comb lin A - tmpt
+chi^2 / ndf = 0.294742 / 10
+par0 ( dN/dy )  = 1.53328 +/- 0.265485
+par1 ( n )  = 6.97568 +/- 1.07096
+par2 ( T_{Levy} (GeV/c) )  = 0.223339 +/- 0.0352598
+
+pp_7TeV Eta Comb lin B - tmpt
+chi^2 / ndf = 0.228462 / 10
+par0 ( dN/dy )  = 1.14112 +/- 0.204638
+par1 ( n )  = 6.8247 +/- 0.990524
+par2 ( T_{Levy} (GeV/c) )  = 0.237733 +/- 0.0385289
+
+pp_7TeV Eta Comb pol2 A - tmpt
+chi^2 / ndf = 0.183456 / 10
+par0 ( dN/dy )  = 1.53626 +/- 0.281606
+par1 ( n )  = 6.68731 +/- 0.892029
+par2 ( T_{Levy} (GeV/c) )  = 0.210761 +/- 0.0329438
+
+pp_7TeV Eta Comb pol2 B - tmpt
+chi^2 / ndf = 0.340282 / 10
+par0 ( dN/dy )  = 1.14484 +/- 0.195378
+par1 ( n )  = 7.1315 +/- 1.17587
+par2 ( T_{Levy} (GeV/c) )  = 0.251716 +/- 0.0410347
+
+pp_7TeV Eta PCM - tmpt
+chi^2 / ndf = 7.8256 / 11
+par0 ( dN/dy ) 1.3 +/- 0.193941
+par1 ( n ) 7 +/- 0.999836
+par2 ( T_{Levy} (GeV/c) ) 0.255304 +/- 0.00248061
+
+pp_7TeV Eta PCM const shift up - tmpt
+chi^2 / ndf = 13.417 / 11
+par0 ( dN/dy )  = 1.3 +/- 0.0161276
+par1 ( n )  = 7 +/- 0.0986471
+par2 ( T_{Levy} (GeV/c) )  = 0.263812 +/- 0.00237287
+
+pp_7TeV Eta PCM const shift down - tmpt
+chi^2 / ndf = 6.30044 / 11
+par0 ( dN/dy )  = 1.22647 +/- 0.0939282
+par1 ( n )  = 6.89715 +/- 0.503889
+par2 ( T_{Levy} (GeV/c) )  = 0.249069 +/- 0.0174052
+
+pp_7TeV Eta PCM lin A - tmpt
+chi^2 / ndf = 8.07936 / 11
+par0 ( dN/dy )  = 1.3 +/- 0.0353448
+par1 ( n )  = 7 +/- 0.643514
+par2 ( T_{Levy} (GeV/c) )  = 0.255373 +/- 0.00247451
+
+pp_7TeV Eta PCM lin B - tmpt
+chi^2 / ndf = 8.84335 / 11
+par0 ( dN/dy )  = 1.29523 +/- 0.280193
+par1 ( n )  = 6.93294 +/- 0.565502
+par2 ( T_{Levy} (GeV/c) )  = 0.253801 +/- 0.0162146
+
+pp_7TeV Eta PCM pol2 A - tmpt
+chi^2 / ndf = 7.96559 / 11
+par0 ( dN/dy )  = 1.3 +/- 0.0477192
+par1 ( n )  = 7 +/- 0.994405
+par2 ( T_{Levy} (GeV/c) )  = 0.255059 +/- 0.00248193
+
+pp_7TeV Eta PCM pol2 B - tmpt
+chi^2 / ndf = 8.65067 / 11
+par0 ( dN/dy )  = 1.3 +/- 0.211356
+par1 ( n )  = 7 +/- 0.996288
+par2 ( T_{Levy} (GeV/c) )  = 0.255548 +/- 0.00249008
+
+pp_7TeV Eta/NPion PCM - softHard
+chi^2 / ndf = 7.92645 / 7
+par0 ( c_{norm} )  = 0.55 +/- 0.0466583
+par1 ( beta_{flow} )  = -243606 +/- 2
+par2 ( T_{kin. freeze out} )  = 1.56 +/- 1.41421
+par3 ( N_{num}/N_{denom} )  = 47.9464 +/- 1.07668
+par4 ( c_{soft to hard} )  = -0.0104429 +/- 0.000235449
+par5 ( pt_{0} )  = 1.92997 +/- 0.063877
+par6 ( n )  = 1.11952 +/- 0.053854
+
+pp_7TeV Eta/NPion PCM const shift up - softHard
+chi^2 / ndf = 7.92645 / 7
+par0 ( c_{norm} )  = 0.55 +/- 0.0466583
+par1 ( beta_{flow} )  = -243606 +/- 2
+par2 ( T_{kin. freeze out} )  = 1.56 +/- 1.41421
+par3 ( N_{num}/N_{denom} )  = 47.9464 +/- 1.07668
+par4 ( c_{soft to hard} )  = -0.0104429 +/- 0.000235449
+par5 ( pt_{0} )  = 1.92997 +/- 0.063877
+par6 ( n )  = 1.11952 +/- 0.053854
+
+pp_7TeV Eta/NPion PCM const shift down - softHard
+chi^2 / ndf = 7.92645 / 7
+par0 ( c_{norm} )  = 0.55 +/- 0.0466583
+par1 ( beta_{flow} )  = -243606 +/- 2
+par2 ( T_{kin. freeze out} )  = 1.56 +/- 1.41421
+par3 ( N_{num}/N_{denom} )  = 47.9464 +/- 1.07668
+par4 ( c_{soft to hard} )  = -0.0104429 +/- 0.000235449
+par5 ( pt_{0} )  = 1.92997 +/- 0.063877
+par6 ( n )  = 1.11952 +/- 0.053854
+
+pp_7TeV Eta/NPion PCM lin A - softHard
+chi^2 / ndf = 7.19256 / 7
+par0 ( c_{norm} )  = 0.55 +/- 0.0474254
+par1 ( beta_{flow} )  = -240058 +/- 67500.8
+par2 ( T_{kin. freeze out} )  = 1.56 +/- 1.41421
+par3 ( N_{num}/N_{denom} )  = 46.9652 +/- 1.09386
+par4 ( c_{soft to hard} )  = -0.0103079 +/- 0.000241136
+par5 ( pt_{0} )  = 1.86342 +/- 0.0643842
+par6 ( n )  = 1.06745 +/- 0.0529445
+
+pp_7TeV Eta/NPion PCM lin B - softHard
+chi^2 / ndf = 9.63738 / 7
+par0 ( c_{norm} )  = 0.55 +/- 0.0411422
+par1 ( beta_{flow} )  = -251350 +/- 2
+par2 ( T_{kin. freeze out} )  = 1.56 +/- 1.41421
+par3 ( N_{num}/N_{denom} )  = 48.5154 +/- 1.05164
+par4 ( c_{soft to hard} )  = -0.0106638 +/- 0.000232008
+par5 ( pt_{0} )  = 1.99289 +/- 0.0633076
+par6 ( n )  = 1.17008 +/- 0.0546266
+
+pp_7TeV Eta/NPion PCM pol2 A - softHard
+chi^2 / ndf = 6.8581 / 7
+par0 ( c_{norm} )  = 0.55 +/- 0.0495605
+par1 ( beta_{flow} )  = -238388 +/- 67500.8
+par2 ( T_{kin. freeze out} )  = 1.56 +/- 1.41421
+par3 ( N_{num}/N_{denom} )  = 46.9914 +/- 1.07268
+par4 ( c_{soft to hard} )  = -0.0102994 +/- 0.000236128
+par5 ( pt_{0} )  = 1.78488 +/- 0.0636668
+par6 ( n )  = 0.945551 +/- 0.0472073
+
+pp_7TeV Eta/NPion PCM pol2 B - softHard
+chi^2 / ndf = 10.198 / 7
+par0 ( c_{norm} )  = 0.55 +/- 0.0423078
+par1 ( beta_{flow} )  = -253750 +/- 67500.8
+par2 ( T_{kin. freeze out} )  = 1.56 +/- 1.41421
+par3 ( N_{num}/N_{denom} )  = 48.8253 +/- 1.0783
+par4 ( c_{soft to hard} )  = -0.0105911 +/- 0.000234775
+par5 ( pt_{0} )  = 2.09718 +/- 0.064772
+par6 ( n )  = 1.33363 +/- 0.0621086
+
+pp_7TeV CKaon  - oHagPt
+chi^2 / ndf = 1438.13 / 49
+par0 ( A (mbGeV^{-2}c^{3}) ) 2.99533 +/- 0.0193414
+par1 ( a [(GeV/c)^{-1}] ) 0.632616 +/- 0.00553803
+par2 ( b [(GeV/c)^{-1}] ) 1.30422e-10 +/- 5.14359e-06
+par3 ( p_{0} (GeV/c) ) 0.842569 +/- 0.00221929
+par4 ( n ) 5.87727 +/- 0.0110392
+
+pp_7TeV CKaon  const shift up - oHagPt
+chi^2 / ndf = 1438.13 / 49
+par0 ( A (mbGeV^{-2}c^{3}) )  = 2.99533 +/- 0.0193414
+par1 ( a [(GeV/c)^{-1}] )  = 0.632616 +/- 0.00553803
+par2 ( b [(GeV/c)^{-1}] )  = 1.30422e-10 +/- 5.14359e-06
+par3 ( p_{0} (GeV/c) )  = 0.842569 +/- 0.00221929
+par4 ( n )  = 5.87727 +/- 0.0110392
+
+pp_7TeV CKaon  const shift down - oHagPt
+chi^2 / ndf = 1438.13 / 49
+par0 ( A (mbGeV^{-2}c^{3}) )  = 2.99533 +/- 0.0193414
+par1 ( a [(GeV/c)^{-1}] )  = 0.632616 +/- 0.00553803
+par2 ( b [(GeV/c)^{-1}] )  = 1.30422e-10 +/- 5.14359e-06
+par3 ( p_{0} (GeV/c) )  = 0.842569 +/- 0.00221929
+par4 ( n )  = 5.87727 +/- 0.0110392
+
+pp_7TeV CKaon  lin A - oHagPt
+chi^2 / ndf = 1902.11 / 49
+par0 ( A (mbGeV^{-2}c^{3}) )  = 2.97743 +/- 0.0187619
+par1 ( a [(GeV/c)^{-1}] )  = 0.659778 +/- 0.00524747
+par2 ( b [(GeV/c)^{-1}] )  = -1.6168e-11 +/- 4.0772e-06
+par3 ( p_{0} (GeV/c) )  = 0.844404 +/- 0.00198913
+par4 ( n )  = 5.87075 +/- 0.0102477
+
+pp_7TeV CKaon  lin B - oHagPt
+chi^2 / ndf = 1147.36 / 49
+par0 ( A (mbGeV^{-2}c^{3}) )  = 3.0178 +/- 0.0199403
+par1 ( a [(GeV/c)^{-1}] )  = 0.603023 +/- 0.00587069
+par2 ( b [(GeV/c)^{-1}] )  = 3.05935e-09 +/- 8.73234e-06
+par3 ( p_{0} (GeV/c) )  = 0.841036 +/- 0.00250322
+par4 ( n )  = 5.88493 +/- 0.0119803
+
+pp_7TeV CKaon  pol2 A - oHagPt
+chi^2 / ndf = 1874.05 / 49
+par0 ( A (mbGeV^{-2}c^{3}) )  = 2.97843 +/- 0.019117
+par1 ( a [(GeV/c)^{-1}] )  = 0.660209 +/- 0.00542302
+par2 ( b [(GeV/c)^{-1}] )  = -9.44375e-10 +/- 5.40665e-06
+par3 ( p_{0} (GeV/c) )  = 0.847083 +/- 0.00213578
+par4 ( n )  = 5.92158 +/- 0.0111196
+
+pp_7TeV CKaon  pol2 B - oHagPt
+chi^2 / ndf = 1142.69 / 49
+par0 ( A (mbGeV^{-2}c^{3}) )  = 3.02078 +/- 0.0195527
+par1 ( a [(GeV/c)^{-1}] )  = 0.598272 +/- 0.00569577
+par2 ( b [(GeV/c)^{-1}] )  = -4.78681e-12 +/- 5.15569e-06
+par3 ( p_{0} (GeV/c) )  = 0.841004 +/- 0.00238082
+par4 ( n )  = 5.84503 +/- 0.0112126
+
+pp_7TeV Proton  - oHagPt
+chi^2 / ndf = 204.045 / 49
+par0 ( A (mbGeV^{-2}c^{3}) ) 0.565807 +/- 0.00542393
+par1 ( a [(GeV/c)^{-1}] ) 0.622432 +/- 0.00606239
+par2 ( b [(GeV/c)^{-1}] ) 0 +/- 5.48506e-06
+par3 ( p_{0} (GeV/c) ) 1.21259 +/- 0.00446188
+par4 ( n ) 6.84327 +/- 0.0231193
+
+pp_7TeV Proton  const shift up - oHagPt
+chi^2 / ndf = 204.045 / 49
+par0 ( A (mbGeV^{-2}c^{3}) )  = 0.565807 +/- 0.00542393
+par1 ( a [(GeV/c)^{-1}] )  = 0.622432 +/- 0.00606239
+par2 ( b [(GeV/c)^{-1}] )  = 0 +/- 5.48506e-06
+par3 ( p_{0} (GeV/c) )  = 1.21259 +/- 0.00446188
+par4 ( n )  = 6.84327 +/- 0.0231193
+
+pp_7TeV Proton  const shift down - oHagPt
+chi^2 / ndf = 204.045 / 49
+par0 ( A (mbGeV^{-2}c^{3}) )  = 0.565807 +/- 0.00542393
+par1 ( a [(GeV/c)^{-1}] )  = 0.622432 +/- 0.00606239
+par2 ( b [(GeV/c)^{-1}] )  = 0 +/- 5.48506e-06
+par3 ( p_{0} (GeV/c) )  = 1.21259 +/- 0.00446188
+par4 ( n )  = 6.84327 +/- 0.0231193
+
+pp_7TeV Proton  lin A - oHagPt
+chi^2 / ndf = 182.064 / 49
+par0 ( A (mbGeV^{-2}c^{3}) )  = 0.602313 +/- 0.00546248
+par1 ( a [(GeV/c)^{-1}] )  = 0.618654 +/- 0.00575423
+par2 ( b [(GeV/c)^{-1}] )  = 0 +/- 5.11668e-06
+par3 ( p_{0} (GeV/c) )  = 1.21528 +/- 0.00431494
+par4 ( n )  = 6.86947 +/- 0.0223348
+
+pp_7TeV Proton  lin B - oHagPt
+chi^2 / ndf = 446.844 / 49
+par0 ( A (mbGeV^{-2}c^{3}) )  = 0.529367 +/- 0.00535952
+par1 ( a [(GeV/c)^{-1}] )  = 0.626578 +/- 0.00637282
+par2 ( b [(GeV/c)^{-1}] )  = 0 +/- 8.77887e-06
+par3 ( p_{0} (GeV/c) )  = 1.20973 +/- 0.00459878
+par4 ( n )  = 6.81482 +/- 0.0238528
+
+pp_7TeV Proton  pol2 A - oHagPt
+chi^2 / ndf = 196.585 / 49
+par0 ( A (mbGeV^{-2}c^{3}) )  = 0.611489 +/- 0.00566561
+par1 ( a [(GeV/c)^{-1}] )  = 0.603885 +/- 0.00609095
+par2 ( b [(GeV/c)^{-1}] )  = 0 +/- 5.7292e-06
+par3 ( p_{0} (GeV/c) )  = 1.23207 +/- 0.00503779
+par4 ( n )  = 7.01041 +/- 0.0261036
+
+pp_7TeV Proton  pol2 B - oHagPt
+chi^2 / ndf = 419.215 / 49
+par0 ( A (mbGeV^{-2}c^{3}) )  = 0.523123 +/- 0.00519849
+par1 ( a [(GeV/c)^{-1}] )  = 0.637186 +/- 0.00607762
+par2 ( b [(GeV/c)^{-1}] )  = 0 +/- 6.58299e-06
+par3 ( p_{0} (GeV/c) )  = 1.19851 +/- 0.00403777
+par4 ( n )  = 6.70117 +/- 0.0208563
+
+pp_7TeV Phi Comb - tmpt
+chi^2 / ndf = 5.73036 / 23
+par0 ( dN/dy ) 0.169194 +/- 0.00251885
+par1 ( n ) 6.63593 +/- 0.559293
+par2 ( T_{Levy} (GeV/c) ) 0.272668 +/- 0.0109213
+
+pp_7TeV Phi Comb const shift up - tmpt
+chi^2 / ndf = 5.73036 / 23
+par0 ( dN/dy )  = 0.169194 +/- 0.00251885
+par1 ( n )  = 6.63593 +/- 0.559293
+par2 ( T_{Levy} (GeV/c) )  = 0.272668 +/- 0.0109213
+
+pp_7TeV Phi Comb const shift down - tmpt
+chi^2 / ndf = 5.73036 / 23
+par0 ( dN/dy )  = 0.169194 +/- 0.00251885
+par1 ( n )  = 6.63593 +/- 0.559293
+par2 ( T_{Levy} (GeV/c) )  = 0.272668 +/- 0.0109213
+
+pp_7TeV Phi Comb lin A - tmpt
+chi^2 / ndf = 7.00369 / 23
+par0 ( dN/dy )  = 0.179988 +/- 0.00262943
+par1 ( n )  = 6.89883 +/- 0.599612
+par2 ( T_{Levy} (GeV/c) )  = 0.271177 +/- 0.0107274
+
+pp_7TeV Phi Comb lin B - tmpt
+chi^2 / ndf = 4.61641 / 23
+par0 ( dN/dy )  = 0.158429 +/- 0.00241155
+par1 ( n )  = 6.39026 +/- 0.526419
+par2 ( T_{Levy} (GeV/c) )  = 0.27479 +/- 0.0112137
+
+pp_7TeV Phi Comb pol2 A - tmpt
+chi^2 / ndf = 5.90766 / 23
+par0 ( dN/dy )  = 0.174114 +/- 0.00276508
+par1 ( n )  = 6.06692 +/- 0.444222
+par2 ( T_{Levy} (GeV/c) )  = 0.24677 +/- 0.0101994
+
+pp_7TeV Phi Comb pol2 B - tmpt
+chi^2 / ndf = 5.70003 / 23
+par0 ( dN/dy )  = 0.164829 +/- 0.00233869
+par1 ( n )  = 7.40239 +/- 0.726138
+par2 ( T_{Levy} (GeV/c) )  = 0.301267 +/- 0.0116236
+
+pp_7TeV Phi/NPion Comb - softHard
+chi^2 / ndf = 4.74542 / 19
+par0 ( c_{norm} )  = -19.4468 +/- 8.68015
+par1 ( beta_{flow} )  = 0.795209 +/- 0.00988055
+par2 ( T_{kin. freeze out} )  = 0.0549174 +/- 0.0013351
+par3 ( N_{num}/N_{denom} )  = 0.123663 +/- 0.0046498
+par4 ( c_{soft to hard} )  = 0.00385044 +/- 0.000441974
+par5 ( pt_{0} )  = 2.20199 +/- 0.072619
+par6 ( n )  = 10.2708 +/- 0.513666
+
+pp_7TeV Phi/NPion Comb const shift up - softHard
+chi^2 / ndf = 4.74542 / 19
+par0 ( c_{norm} )  = -19.4468 +/- 8.68015
+par1 ( beta_{flow} )  = 0.795209 +/- 0.00988055
+par2 ( T_{kin. freeze out} )  = 0.0549174 +/- 0.0013351
+par3 ( N_{num}/N_{denom} )  = 0.123663 +/- 0.0046498
+par4 ( c_{soft to hard} )  = 0.00385044 +/- 0.000441974
+par5 ( pt_{0} )  = 2.20199 +/- 0.072619
+par6 ( n )  = 10.2708 +/- 0.513666
+
+pp_7TeV Phi/NPion Comb const shift down - softHard
+chi^2 / ndf = 4.74542 / 19
+par0 ( c_{norm} )  = -19.4468 +/- 8.68015
+par1 ( beta_{flow} )  = 0.795209 +/- 0.00988055
+par2 ( T_{kin. freeze out} )  = 0.0549174 +/- 0.0013351
+par3 ( N_{num}/N_{denom} )  = 0.123663 +/- 0.0046498
+par4 ( c_{soft to hard} )  = 0.00385044 +/- 0.000441974
+par5 ( pt_{0} )  = 2.20199 +/- 0.072619
+par6 ( n )  = 10.2708 +/- 0.513666
+
+pp_7TeV Phi/NPion Comb lin A - softHard
+chi^2 / ndf = 6.38142 / 19
+par0 ( c_{norm} )  = -121.61 +/- 245.522
+par1 ( beta_{flow} )  = 0.804867 +/- 0.0389731
+par2 ( T_{kin. freeze out} )  = 0.0486475 +/- 0.00748109
+par3 ( N_{num}/N_{denom} )  = 0.11107 +/- 0.00455287
+par4 ( c_{soft to hard} )  = 0.00358601 +/- 0.00140613
+par5 ( pt_{0} )  = 1.77727 +/- 0.475244
+par6 ( n )  = 8.24232 +/- 2.18226
+
+pp_7TeV Phi/NPion Comb lin B - softHard
+chi^2 / ndf = 3.97331 / 19
+par0 ( c_{norm} )  = -4.82202 +/- 12.5247
+par1 ( beta_{flow} )  = 0.794142 +/- 0.11304
+par2 ( T_{kin. freeze out} )  = 0.0558765 +/- 0.0168507
+par3 ( N_{num}/N_{denom} )  = 0.139957 +/- 0.0120258
+par4 ( c_{soft to hard} )  = 0.00321505 +/- 0.00134642
+par5 ( pt_{0} )  = 2.46135 +/- 0.497416
+par6 ( n )  = 12.4862 +/- 3.35602
+
+pp_7TeV Phi/NPion Comb pol2 A - softHard
+chi^2 / ndf = 4.77043 / 19
+par0 ( c_{norm} )  = 0.938956 +/- 0.318617
+par1 ( beta_{flow} )  = 0.755961 +/- 0.00975592
+par2 ( T_{kin. freeze out} )  = 0.0669148 +/- 0.00157645
+par3 ( N_{num}/N_{denom} )  = 0.142594 +/- 0.0132854
+par4 ( c_{soft to hard} )  = 0.00504432 +/- 0.000634024
+par5 ( pt_{0} )  = 2.99959 +/- 0.0756271
+par6 ( n )  = 16.2742 +/- 0.602887
+
+pp_7TeV Phi/NPion Comb pol2 B - softHard
+chi^2 / ndf = 9.30887 / 19
+par0 ( c_{norm} )  = -181.509 +/- 78.3546
+par1 ( beta_{flow} )  = 0.77874 +/- 0.011159
+par2 ( T_{kin. freeze out} )  = 0.0448443 +/- 0.0010546
+par3 ( N_{num}/N_{denom} )  = 0.118886 +/- 0.00306473
+par4 ( c_{soft to hard} )  = 0.00196315 +/- 0.000257087
+par5 ( pt_{0} )  = 1.56158 +/- 0.0566269
+par6 ( n )  = 8.70121 +/- 0.42021
+
+pp_7TeV NKaonSubS  - oHagPt
+chi^2 / ndf = 346.243 / 35
+par0 ( A (mbGeV^{-2}c^{3}) ) 3.31675 +/- 0.0296817
+par1 ( a [(GeV/c)^{-1}] ) 0.52212 +/- 0.00776282
+par2 ( b [(GeV/c)^{-1}] ) -1.21192e-09 +/- 0.000145957
+par3 ( p_{0} (GeV/c) ) 0.877296 +/- 0.00437819
+par4 ( n ) 6.01062 +/- 0.0201295
+
+pp_7TeV NKaonSubS  const shift up - oHagPt
+chi^2 / ndf = 346.243 / 35
+par0 ( A (mbGeV^{-2}c^{3}) )  = 3.31675 +/- 0.0296817
+par1 ( a [(GeV/c)^{-1}] )  = 0.52212 +/- 0.00776282
+par2 ( b [(GeV/c)^{-1}] )  = -1.21192e-09 +/- 0.000145957
+par3 ( p_{0} (GeV/c) )  = 0.877296 +/- 0.00437819
+par4 ( n )  = 6.01062 +/- 0.0201295
+
+pp_7TeV NKaonSubS  const shift down - oHagPt
+chi^2 / ndf = 346.243 / 35
+par0 ( A (mbGeV^{-2}c^{3}) )  = 3.31675 +/- 0.0296817
+par1 ( a [(GeV/c)^{-1}] )  = 0.52212 +/- 0.00776282
+par2 ( b [(GeV/c)^{-1}] )  = -1.21192e-09 +/- 0.000145957
+par3 ( p_{0} (GeV/c) )  = 0.877296 +/- 0.00437819
+par4 ( n )  = 6.01062 +/- 0.0201295
+
+pp_7TeV NKaonSubS  lin A - oHagPt
+chi^2 / ndf = 428.097 / 35
+par0 ( A (mbGeV^{-2}c^{3}) )  = 3.53186 +/- 0.0300765
+par1 ( a [(GeV/c)^{-1}] )  = 0.498922 +/- 0.00774762
+par2 ( b [(GeV/c)^{-1}] )  = 1.68798e-09 +/- 6.19794e-06
+par3 ( p_{0} (GeV/c) )  = 0.894164 +/- 0.00481374
+par4 ( n )  = 6.09378 +/- 0.0215614
+
+pp_7TeV NKaonSubS  lin B - oHagPt
+chi^2 / ndf = 278.618 / 35
+par0 ( A (mbGeV^{-2}c^{3}) )  = 3.1031 +/- 0.0295719
+par1 ( a [(GeV/c)^{-1}] )  = 0.54641 +/- 0.00794065
+par2 ( b [(GeV/c)^{-1}] )  = -7.26589e-10 +/- 9.08945e-06
+par3 ( p_{0} (GeV/c) )  = 0.861072 +/- 0.00403845
+par4 ( n )  = 5.92799 +/- 0.0191245
+
+pp_7TeV NKaonSubS  pol2 A - oHagPt
+chi^2 / ndf = 357.09 / 35
+par0 ( A (mbGeV^{-2}c^{3}) )  = 3.41751 +/- 0.0307448
+par1 ( a [(GeV/c)^{-1}] )  = 0.534456 +/- 0.00785184
+par2 ( b [(GeV/c)^{-1}] )  = -8.97082e-10 +/- 9.97499e-06
+par3 ( p_{0} (GeV/c) )  = 0.876978 +/- 0.00439125
+par4 ( n )  = 6.05962 +/- 0.0207288
+
+pp_7TeV NKaonSubS  pol2 B - oHagPt
+chi^2 / ndf = 360.964 / 35
+par0 ( A (mbGeV^{-2}c^{3}) )  = 3.22106 +/- 0.0289167
+par1 ( a [(GeV/c)^{-1}] )  = 0.504382 +/- 0.00785973
+par2 ( b [(GeV/c)^{-1}] )  = 3.96253e-11 +/- 4.99505e-06
+par3 ( p_{0} (GeV/c) )  = 0.881832 +/- 0.00455963
+par4 ( n )  = 5.97832 +/- 0.0203275
+
+pp_7TeV Lambda  - oHagPt
+chi^2 / ndf = 187.111 / 28
+par0 ( A (mbGeV^{-2}c^{3}) ) 0.254693 +/- 0.00718186
+par1 ( a [(GeV/c)^{-1}] ) 0.550801 +/- 0.00692653
+par2 ( b [(GeV/c)^{-1}] ) -0.0341026 +/- 0.00929002
+par3 ( p_{0} (GeV/c) ) 1.38333 +/- 0.0250681
+par4 ( n ) 7.0297 +/- 0.0746108
+
+pp_7TeV Lambda  const shift up - oHagPt
+chi^2 / ndf = 187.111 / 28
+par0 ( A (mbGeV^{-2}c^{3}) )  = 0.254693 +/- 0.00718186
+par1 ( a [(GeV/c)^{-1}] )  = 0.550801 +/- 0.00692653
+par2 ( b [(GeV/c)^{-1}] )  = -0.0341026 +/- 0.00929002
+par3 ( p_{0} (GeV/c) )  = 1.38333 +/- 0.0250681
+par4 ( n )  = 7.0297 +/- 0.0746108
+
+pp_7TeV Lambda  const shift down - oHagPt
+chi^2 / ndf = 187.111 / 28
+par0 ( A (mbGeV^{-2}c^{3}) )  = 0.254693 +/- 0.00718186
+par1 ( a [(GeV/c)^{-1}] )  = 0.550801 +/- 0.00692653
+par2 ( b [(GeV/c)^{-1}] )  = -0.0341026 +/- 0.00929002
+par3 ( p_{0} (GeV/c) )  = 1.38333 +/- 0.0250681
+par4 ( n )  = 7.0297 +/- 0.0746108
+
+pp_7TeV Lambda  lin A - oHagPt
+chi^2 / ndf = 157.229 / 28
+par0 ( A (mbGeV^{-2}c^{3}) )  = 0.268189 +/- 0.00720938
+par1 ( a [(GeV/c)^{-1}] )  = 0.534422 +/- 0.00730569
+par2 ( b [(GeV/c)^{-1}] )  = -0.0272561 +/- 0.00946536
+par3 ( p_{0} (GeV/c) )  = 1.42152 +/- 0.0298115
+par4 ( n )  = 7.21662 +/- 0.0906897
+
+pp_7TeV Lambda  lin B - oHagPt
+chi^2 / ndf = 222.615 / 28
+par0 ( A (mbGeV^{-2}c^{3}) )  = 0.240899 +/- 0.00714728
+par1 ( a [(GeV/c)^{-1}] )  = 0.565992 +/- 0.00715455
+par2 ( b [(GeV/c)^{-1}] )  = -0.040246 +/- 0.00930946
+par3 ( p_{0} (GeV/c) )  = 1.35144 +/- 0.0220058
+par4 ( n )  = 6.86343 +/- 0.0635802
+
+pp_7TeV Lambda  pol2 A - oHagPt
+chi^2 / ndf = 204.973 / 28
+par0 ( A (mbGeV^{-2}c^{3}) )  = 0.277217 +/- 0.0080566
+par1 ( a [(GeV/c)^{-1}] )  = 0.568224 +/- 0.00709825
+par2 ( b [(GeV/c)^{-1}] )  = -0.0553797 +/- 0.00898796
+par3 ( p_{0} (GeV/c) )  = 1.31181 +/- 0.0187992
+par4 ( n )  = 6.87768 +/- 0.0564703
+
+pp_7TeV Lambda  pol2 B - oHagPt
+chi^2 / ndf = 187.262 / 28
+par0 ( A (mbGeV^{-2}c^{3}) )  = 0.233743 +/- 0.00634171
+par1 ( a [(GeV/c)^{-1}] )  = 0.522738 +/- 0.0096903
+par2 ( b [(GeV/c)^{-1}] )  = -0.0116342 +/- 0.010865
+par3 ( p_{0} (GeV/c) )  = 1.48583 +/- 0.0419363
+par4 ( n )  = 7.27207 +/- 0.120242
+

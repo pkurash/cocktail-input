@@ -1,0 +1,69 @@
+%particle   centrality  method      pt const rel sys(%) ptMin   ptMax   func    opt     par1    par1Low par1Up  par2    par2Low par2Up  par3    par3Low par3Up  par4    par4Low par4Up   
+NPion       MB          PCM         9.0                 0.3     14.0    oHag    QNRME+  37.0    36.0    38.0    0.4 0.3   0.5   0.07    0   0.1   0.9 0.8   1.0   5.0 4.7 5.3 stop
+NPion       MB          PCMEMCal    6.18                0.8     20.0    oHag    QNRME+  210.9   100 400    0.13 - -   0.18    - -   0.61 - -   5.10 - - stop
+NPion       MB          EMCal       4.24                1.4     16.0    oHag    QNRME+  stop
+NPion       MB          PHOS        -                   1.0     20.0    oHag    QNRME+  44.47 - - 0.34 - - 0.05 - - 0.90 - - 5.29 - - stop
+NPion       MB          Dalitz      -                   0.6     10.0    oHag    QNRME+  108.32 0 200 0.06 - - 0.34 - - 0.65 - - 4.94 4 6 stop
+NPion       MB          Comb        -                   0.3     20.0    oHag    QNRME+  stop
+NPion       0020        -           -                   0.3     14.0    qcd     QNRME+  stop  
+NPion       2040        -           -                   0.3     14.0    oHag    QNRME+  stop
+NPion       4060        -           -                   0.3     14.0    oHag    QNRME+  stop
+NPion       6080        -           -                   0.3     14.0    oHagPt  QNRME+  stop
+Eta         MB          PCM         9.0                 0.7     10.0    h       QNRME+  stop
+Eta         MB          PCMEMCal    6.18                1.1     16.0    h       QNRME+  stop
+Eta         MB          EMCal       4.24                2.2     20.0    h       QNRME+  stop
+Eta         MB          Comb        -                   0.7     20.0    h       QNRME+  stop
+Eta         0020        -       -                   0.5     10.0    oHag    QNRME+  stop
+Eta         2040        -       -                   0.5     10.0    oHag    QNRME+  stop
+Eta         4060        -       -                   0.5     10.0    oHag    QNRME+  stop
+Eta         6080        -       -                   0.5     10.0    oHagPt  QNRME+  stop
+CPion       MB          -       -                   0.1     20.0    oHagPt  QNRME+  stop
+CPion       0005        -       -                   0.1     20.0    oHagPt  QNRME+  -       -       -       -       -       -       -       -       -       -       6.2     10.0  stop
+CPion       0510        -       -                   0.1     20.0    oHagPt  QNRME+  -       -       -       -       -       -       -       -       -       -       6.15    10.0  stop
+CPion       0010        -       -                   0.1     20.0    oHagPt  QNRME+  -       -       -       -       -       -       -       -       -       -       6.15    10.0  stop
+CPion       1020        -       -                   0.1     20.0    oHagPt  QNRME+  -       -       -       -       -       -       -       -       -       -       6.15    10.0  stop
+CPion       0020        -       -                   0.1     20.0    oHagPt  QNRME+  -       -       -       -       -       -       -       -       -       -       6.15    10.0  stop
+CPion       2040        -       -                   0.1     20.0    oHagPt  QNRME+  -       -       -       -       -       -       -       -       -       -       6.15    10.0  stop
+CPion       4060        -       -                   0.1     20.0    oHagPt  QNRME+  -       -       -       -       -       -       -       -       -       -       6.1     10.0  stop
+CPion       6080        -       -                   0.1     20.0    oHagPt  QNRME+  stop
+CPion       80100       -       -                   0.1     20.0    qcd     QNRME+  stop
+CKaon       MB          -       -                   0.2     20.0    qcdpt   QNRME+  stop
+CKaon       0005        -       -                   0.2     20.0    oHagPt  QNRME+  stop
+CKaon       0510        -       -                   0.2     20.0    oHagPt  QNRME+  stop
+CKaon       0010        -       -                   0.2     20.0    oHagPt  QNRME+  stop
+CKaon       1020        -       -                   0.2     20.0    oHagPt  QNRME+  stop
+CKaon       0020        -       -                   0.2     20.0    oHagPt  QNRME+  stop
+CKaon       2040        -       -                   0.2     20.0    qcd     QNRME+  stop
+CKaon       4060        -       -                   0.2     20.0    qcd     QNRME+  stop
+CKaon       6080        -       -                   0.2     20.0    oHagPt  QNRME+  stop
+CKaon       80100       -       -                   0.2     20.0    qcdpt   QNRME+  stop
+Proton      MB          -       -                   0.5     20.0    oHag    QNRME+  stop
+Proton      0005        -       -                   0.3     20.0    oHagPt  QNRME+  -       -       -       -       -       -       -       -       -       -       5.0     7.5     stop
+Proton      0510        -       -                   0.3     20.0    oHagPt  QNRME+  stop
+Proton      0010        -       -                   0.3     20.0    oHagPt  QNRME+  -       -       -       -       -       -       -       -       -       -       5.0     7.5     stop
+Proton      1020        -       -                   0.3     20.0    oHagPt  QNRME+  -       -       -       -       -       -       -       -       -       -       5.0     7.25    stop
+Proton      0020        -       -                   0.3     20.0    oHagPt  QNRME+  1.47    -       -       0.5     -       -       0       -       -       1.87    -       -     7.45 7.0 7.55    stop
+Proton      2040        -       -                   0.3     20.0    oHagPt  QNRME+  1.47    -       -       0.5     -       -       0       -       -       1.87    -       -     7.35 7.0 7.45    stop
+Proton      4060        -       -                   0.3     20.0    oHagPt  QNRME+  stop
+Proton      6080        -       -                   0.3     20.0    oHagPt  QNRME+  stop
+Proton      80100       -       -                   0.3     20.0    oHagPt  QNRME+  stop
+NKaonSubS   MB          -       -                   0.0     8.0     oHagPt  QNRME+  stop
+NKaonSubS   0005        -       -                   0.0     8.0     oHagPt  QNRME+  stop 
+NKaonSubS   0510        -       -                   0.0     8.0     oHagPt  QNRME+  stop 
+NKaonSubS   0010        -       -                   0.0     8.0     oHagPt  QNRME+  stop 
+NKaonSubS   1020        -       -                   0.0     8.0     oHagPt  QNRME+  stop 
+NKaonSubS   0020        -       -                   0.0     8.0     oHagPt  QNRME+  stop 
+NKaonSubS   2040        -       -                   0.0     8.0     oHagPt  QNRME+  stop 
+NKaonSubS   4060        -       -                   0.0     8.0     oHagPt  QNRME+  stop 
+NKaonSubS   6080        -       -                   0.0     8.0     oHagPt  QNRME+  stop 
+NKaonSubS   80100       -       -                   0.0     8.0     oHagPt  QNRME+  -       -       -       -       -       -       -       -       -       -       5.8     10.0    stop 
+Lambda      MB          -       -                   0.0     8.0     qcd     QNRME+  stop
+Lambda      0005        -       -                   0.0     8.0     xqcd    QNRME+  stop
+Lambda      0510        -       -                   0.0     8.0     xqcd    QNRME+  stop
+Lambda      0010        -       -                   0.0     8.0     qcd     QNRME+  stop
+Lambda      1020        -       -                   0.0     8.0     xqcdpt  QNRME+  stop
+Lambda      0020        -       -                   0.0     8.0     qcd     QNRME+  stop
+Lambda      2040        -       -                   0.0     8.0     qcd     QNRME+  stop
+Lambda      4060        -       -                   0.0     8.0     xqcd    QNRME+  stop
+Lambda      6080        -       -                   0.0     8.0     xqcd    QNRME+  stop
+Lambda      80100       -       -                   0.0     8.0     xqcd    QNRME+  stop

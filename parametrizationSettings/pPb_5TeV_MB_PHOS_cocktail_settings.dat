@@ -1,0 +1,7 @@
+%pdg code   mtScaleFactor   mtScaleFactorUp     mtScaleFactorDown   particle    method  ratio           method  
+111         -               -                   -                   NPion       PHOS    stop
+221         -               -                   -                   NPion       Comb    EtaToNPion      Comb     stop 
+310         -               -                   -                   CKaon       -       stop
+130         -               -                   -                   CKaon       -       stop
+3122        -               -                   -                   Lambda      -       stop
+2212        -               -                   -                   Proton      -       stop
