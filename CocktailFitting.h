@@ -507,7 +507,7 @@ Double_t BGBlastWave_Func( const Double_t *x,
         fBGBlastWave_Integrand = new TF1("fBGBlastWave_Integrand", BGBlastWave_Integrand, 0., 1., 5);
     fBGBlastWave_Integrand->SetParameters(mt, pt, beta_max, temp, n);
     cout << "here" << endl;
-    Double_t integral   = fBGBlastWave_Integrand->Integral(0., 1., (Double_t *)0, 1.e-6);
+    Double_t integral   = fBGBlastWave_Integrand->Integral(0., 1., /*(Double_t *)0,*/ 1.e-6);
     return norm * pt * integral;
 }
 
@@ -2113,7 +2113,7 @@ TH1* YieldMean_LowExtrapolationHisto(   TH1 *h,
     Double_t cont, err, width;
     for (Int_t ibin = 0; ibin < hlo->GetNbinsX(); ibin++) {
         width = hlo->GetBinWidth(ibin + 1);
-        cont = f->Integral(hlo->GetBinLowEdge(ibin + 1), hlo->GetBinLowEdge(ibin + 2), (Double_t *)0, 1.e-6);
+        cont = f->Integral(hlo->GetBinLowEdge(ibin + 1), hlo->GetBinLowEdge(ibin + 2), /*(Double_t *)0,*/ 1.e-6);
         err = f->IntegralError(hlo->GetBinLowEdge(ibin + 1), hlo->GetBinLowEdge(ibin + 2), (Double_t *)0, (Double_t *)0, 1.e-6);
         hlo->SetBinContent(ibin + 1, cont / width);
         hlo->SetBinError(ibin + 1, err / width);
@@ -2153,7 +2153,7 @@ TH1* YieldMean_HighExtrapolationHisto(  TH1 *h,
     Double_t cont, err, width;
     for (Int_t ibin = 0; ibin < hhi->GetNbinsX(); ibin++) {
         width = hhi->GetBinWidth(ibin + 1);
-        cont = f->Integral(hhi->GetBinLowEdge(ibin + 1), hhi->GetBinLowEdge(ibin + 2), (Double_t *)0, 1.e-6);
+        cont = f->Integral(hhi->GetBinLowEdge(ibin + 1), hhi->GetBinLowEdge(ibin + 2), /*(Double_t *)0,*/ 1.e-6);
         err = f->IntegralError(hhi->GetBinLowEdge(ibin + 1), hhi->GetBinLowEdge(ibin + 2), (Double_t *)0, (Double_t *)0, 1.e-6);
         hhi->SetBinContent(ibin + 1, cont / width);
         hhi->SetBinError(ibin + 1, err / width);
