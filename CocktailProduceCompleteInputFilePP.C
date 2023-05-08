@@ -1156,7 +1156,8 @@ void  CocktailProduceCompleteInputFilePP(   TString enableEnergy        = "11011
                 TGraphAsymmErrors* graphEtaToPi0PCMEMC7TeVSys           = (TGraphAsymmErrors*)fFileNeutralMeson7TeVEta->Get("graphRatioEtaToPi0PCMEMCAL7TeVSysErr");
 
                 // pass2
-                TH1D*               histoEtaToPi0PCMPass27TeVStat       = (TH1D*)fFileNeutralMeson7TeVPass2Eta->Get("EtatoPi0RatioConversionBinShifted");
+                //TH1D*               histoEtaToPi0PCMPass27TeVStat       = (TH1D*)fFileNeutralMeson7TeVPass2Eta->Get("EtatoPi0RatioConversionBinShifted");
+                TH1D*               histoEtaToPi0PCMPass27TeVStat       = (TH1D*)fFileNeutralMeson7TeVPass2Eta->Get("EtatoPi0RatioConversion");
                 TGraphAsymmErrors*  graphEtaToPi0PCMPass27TeVStat       = HistToGraph(histoEtaToPi0PCMPass27TeVStat);
                 graphEtaToPi0PCMPass27TeVStat->RemovePoint(0);
                 TGraphAsymmErrors*  graphEtaToPi0PCMPass27TeVSys        = (TGraphAsymmErrors*)fFileNeutralMeson7TeVPass2Eta->Get("EtatoPi0RatioConversionBinShiftedSys");
@@ -2179,7 +2180,6 @@ void  CocktailProduceCompleteInputFilePP(   TString enableEnergy        = "11011
     //================================================================================================================
     //Saving the TList to the final file
     //================================================================================================================
-    cout << "writing lists" << endl;
     if(Include_900GeV  && list_900GeV->GetEntries())  list_900GeV->Write( "pp_0.9TeV",  TObject::kSingleKey);
     if(Include_2760GeV && list_2760GeV->GetEntries()) list_2760GeV->Write("pp_2.76TeV", TObject::kSingleKey);
     if(Include_5TeV    && list_5TeV->GetEntries())    list_5TeV->Write(   "pp_5TeV",    TObject::kSingleKey);

@@ -1,0 +1,5 @@
+*.swp
+*ACLiC*
+*.d
+*.so
+log
